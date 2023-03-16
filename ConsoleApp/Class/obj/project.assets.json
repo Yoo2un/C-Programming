@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\Class\\Class.csproj",
+      "projectName": "Class",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\Class\\Class.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\Class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

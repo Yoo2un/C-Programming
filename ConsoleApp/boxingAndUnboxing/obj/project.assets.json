@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C#project\\ConsoleApp\\boxingAndUnboxing\\boxingAndUnboxing.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\boxingAndUnboxing\\boxingAndUnboxing.csproj",
       "projectName": "boxingAndUnboxing",
-      "projectPath": "C:\\Users\\user\\Desktop\\C#project\\ConsoleApp\\boxingAndUnboxing\\boxingAndUnboxing.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\boxingAndUnboxing\\boxingAndUnboxing.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C#project\\ConsoleApp\\boxingAndUnboxing\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\boxingAndUnboxing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

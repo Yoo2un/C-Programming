@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\boxingAndUnboxing\\boxingAndUnboxing.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\Class\\Class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\boxingAndUnboxing\\boxingAndUnboxing.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\Class\\Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\boxingAndUnboxing\\boxingAndUnboxing.csproj",
-        "projectName": "boxingAndUnboxing",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\boxingAndUnboxing\\boxingAndUnboxing.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\Class\\Class.csproj",
+        "projectName": "Class",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\Class\\Class.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\boxingAndUnboxing\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\C-Programming\\ConsoleApp\\Class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
