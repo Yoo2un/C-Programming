@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "boxingAndUnboxing", "boxing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj", "{B41DB859-6E6F-4BE2-AE9F-2A14901C07D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{25536763-0F66-4283-90F0-5DE2C6B3550C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{25536763-0F66-4283-90F0-5DE2C6B3550C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameter", "Parameter\Parameter.csproj", "{B43959ED-EC69-4194-9DF2-E59BD6472D2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{25536763-0F66-4283-90F0-5DE2C6B3550C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25536763-0F66-4283-90F0-5DE2C6B3550C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25536763-0F66-4283-90F0-5DE2C6B3550C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43959ED-EC69-4194-9DF2-E59BD6472D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43959ED-EC69-4194-9DF2-E59BD6472D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43959ED-EC69-4194-9DF2-E59BD6472D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43959ED-EC69-4194-9DF2-E59BD6472D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -50,8 +50,8 @@ namespace Class
             //shiba.Info();
             #endregion
             #region 백준 - 단어길이 재기
-            string result = Console.ReadLine();
-            Console.WriteLine(result.Length);
+            //string result = Console.ReadLine();
+            //Console.WriteLine(result.Length);
             #endregion
         }
     }

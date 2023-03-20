@@ -47,15 +47,15 @@
             #endregion
 
             #region 백준 문자열
-            int T = int.Parse(Console.ReadLine());
-            string S;
+            //int T = int.Parse(Console.ReadLine());
+            //string S;
 
-            for(int i = 0; i < T; i++) 
-            {
-                S = Console.ReadLine();
-                Console.Write(S[0]);
-                Console.WriteLine(S[S.Length-1]);
-            }
+            //for(int i = 0; i < T; i++) 
+            //{
+            //    S = Console.ReadLine();
+            //    Console.Write(S[0]);
+            //    Console.WriteLine(S[S.Length-1]);
+            //}
             #endregion
         }
     }
