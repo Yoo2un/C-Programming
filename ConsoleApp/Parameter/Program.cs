@@ -62,15 +62,18 @@
             //Console.WriteLine("data3값: " + data3);
             #endregion
             #region 백준-코딩은 체육과목입니다
-            int N = int.Parse(Console.ReadLine());
-            int cnt = 0;
-            for(int i =0; i < N; i++)
-            {
-                N -= 4;
-                cnt++;
-                Console.Write("long ");
-            }
-            Console.Write("int");
+            //int N = int.Parse(Console.ReadLine());
+            //while(N >= 0)
+            //{
+            //    N -= 4;
+            //    if(N < 0)
+            //    {
+            //        break;
+            //    }    
+            //    Console.Write("long ");
+
+            //}
+            //Console.Write("int");
             #endregion
             //가변길이 매개변수
             //Info(10, 20);

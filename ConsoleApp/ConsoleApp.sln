@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{25536763-0F66-4283-90F0-5DE2C6B3550C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameter", "Parameter\Parameter.csproj", "{B43959ED-EC69-4194-9DF2-E59BD6472D2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parameter", "Parameter\Parameter.csproj", "{B43959ED-EC69-4194-9DF2-E59BD6472D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverRide", "OverRide\OverRide.csproj", "{AD3B73F9-EDE0-4680-BDE6-5BA0D1300E09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B43959ED-EC69-4194-9DF2-E59BD6472D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B43959ED-EC69-4194-9DF2-E59BD6472D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B43959ED-EC69-4194-9DF2-E59BD6472D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3B73F9-EDE0-4680-BDE6-5BA0D1300E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3B73F9-EDE0-4680-BDE6-5BA0D1300E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3B73F9-EDE0-4680-BDE6-5BA0D1300E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3B73F9-EDE0-4680-BDE6-5BA0D1300E09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
