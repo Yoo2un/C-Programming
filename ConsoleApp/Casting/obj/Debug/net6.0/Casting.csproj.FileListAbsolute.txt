@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\bin\Debug\net6.0\Casting.exe
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\bin\Debug\net6.0\Casting.deps.json
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\bin\Debug\net6.0\Casting.dll
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\bin\Debug\net6.0\Casting.pdb
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\Casting.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\Casting.dll
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\refint\Casting.dll
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\Casting.pdb
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C-Programming\ConsoleApp\Casting\obj\Debug\net6.0\ref\Casting.dll
