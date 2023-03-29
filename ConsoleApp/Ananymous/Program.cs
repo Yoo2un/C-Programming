@@ -9,7 +9,7 @@ namespace Anonymous
         {
             for(int i = 0; i < element.Length; i++)
             {
-                Console.WriteLine(element.Length);
+                //Console.WriteLine(element.Length);
             }
         }
         public T Index(int index)
@@ -27,7 +27,7 @@ namespace Anonymous
         // 컴파일러는 메서드의 나머지 부분에 대해서 매개변수 값으로 치환
         static void Resolution<T>(T x,T y)
         {
-            Console.WriteLine("X 해상도: " + x + " " + "Y 해상도: " + y);
+            //Console.WriteLine("X 해상도: " + x + " " + "Y 해상도: " + y);
         }
         static void Main(string[] args)
 
