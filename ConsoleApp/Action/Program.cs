@@ -65,6 +65,7 @@ namespace StringBuilder
 
         static int Result(int value)
         {
+
             return value;
         }
 

@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anonymous", "Ananymous\Anon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{0FC12F5A-2E30-4F3C-827D-36891C8C4D33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action", "Action\Action.csproj", "{411B75BF-E3DE-4F73-BA53-6AEA9CDEFCDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Action", "Action\Action.csproj", "{411B75BF-E3DE-4F73-BA53-6AEA9CDEFCDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial", "Partial\Partial.csproj", "{FC3DF913-3867-41DF-A148-E870128C2D36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{411B75BF-E3DE-4F73-BA53-6AEA9CDEFCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{411B75BF-E3DE-4F73-BA53-6AEA9CDEFCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{411B75BF-E3DE-4F73-BA53-6AEA9CDEFCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3DF913-3867-41DF-A148-E870128C2D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3DF913-3867-41DF-A148-E870128C2D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3DF913-3867-41DF-A148-E870128C2D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3DF913-3867-41DF-A148-E870128C2D36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
