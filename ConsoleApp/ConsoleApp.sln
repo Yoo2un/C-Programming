@@ -29,7 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Action", "Action\Action.csproj", "{411B75BF-E3DE-4F73-BA53-6AEA9CDEFCDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial", "Partial\Partial.csproj", "{FC3DF913-3867-41DF-A148-E870128C2D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Partial", "Partial\Partial.csproj", "{FC3DF913-3867-41DF-A148-E870128C2D36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp", "Csharp\Csharp.csproj", "{6A6F5B69-73BB-4B82-9E86-3702ABAF57B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "..\..\..\..\Desktop\C#project\TryCatch\TryCatch.csproj", "{F2C9C4F3-D413-4DF0-B32C-62270A70DA0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{FC3DF913-3867-41DF-A148-E870128C2D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC3DF913-3867-41DF-A148-E870128C2D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC3DF913-3867-41DF-A148-E870128C2D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6F5B69-73BB-4B82-9E86-3702ABAF57B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6F5B69-73BB-4B82-9E86-3702ABAF57B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6F5B69-73BB-4B82-9E86-3702ABAF57B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6F5B69-73BB-4B82-9E86-3702ABAF57B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C9C4F3-D413-4DF0-B32C-62270A70DA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C9C4F3-D413-4DF0-B32C-62270A70DA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C9C4F3-D413-4DF0-B32C-62270A70DA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C9C4F3-D413-4DF0-B32C-62270A70DA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
